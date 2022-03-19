@@ -12,8 +12,3 @@
 
 4. Run the script ```python3 bypass.py```
 
-## Author 
-
-Dmitry Gridnev – flymedllva@gmail.com
-
-@flymedllva – [GitHub](https://github.com/FlymeDllVa)
